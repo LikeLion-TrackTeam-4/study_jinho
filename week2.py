@@ -29,3 +29,4 @@ for i in range(num):
     left.extend(reversed(right))
 
     print(''.join(left))
+#스택으로 하면 단점이있다
